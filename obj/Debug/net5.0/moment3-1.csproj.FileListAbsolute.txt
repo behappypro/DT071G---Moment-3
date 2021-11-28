@@ -1,0 +1,16 @@
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\obj\Debug\net5.0\moment3-1.csproj.AssemblyReference.cache
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\obj\Debug\net5.0\moment3-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\obj\Debug\net5.0\moment3-1.AssemblyInfoInputs.cache
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\obj\Debug\net5.0\moment3-1.AssemblyInfo.cs
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\obj\Debug\net5.0\moment3-1.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\bin\Debug\net5.0\moment3-1.exe
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\bin\Debug\net5.0\moment3-1.deps.json
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\bin\Debug\net5.0\moment3-1.runtimeconfig.json
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\bin\Debug\net5.0\moment3-1.runtimeconfig.dev.json
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\bin\Debug\net5.0\moment3-1.dll
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\bin\Debug\net5.0\ref\moment3-1.dll
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\bin\Debug\net5.0\moment3-1.pdb
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\obj\Debug\net5.0\moment3-1.dll
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\obj\Debug\net5.0\ref\moment3-1.dll
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\obj\Debug\net5.0\moment3-1.pdb
+C:\Users\Ashraf\Desktop\DT071G\moment3-1\obj\Debug\net5.0\moment3-1.genruntimeconfig.cache
